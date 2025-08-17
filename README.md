@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/esraa-esmaiel1/">
+  <a href="https://www.linkedin.com/in/esraa-esmaiel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -42,6 +42,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" **alt="Mocha" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" title="electron" **alt="electron" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/expo/expo-line-wordmark.svg" title="expo" **alt="expo" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="firebase" **alt="firebase" width="40" height="40"/>
 </div>
 <!---
 EsraaIsmaiel1/EsraaIsmaiel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
